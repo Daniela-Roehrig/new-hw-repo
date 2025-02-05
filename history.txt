@@ -1,0 +1,20 @@
+  154  ls -l
+  155  explorer.exe .
+  156  git status
+  157  git add .gitignore
+  158  git commit -m "update .gitignore"
+  159  git log
+  160  git push -u origin feature
+  161  git commit --amend -m "update.gitignore amend"
+  162  git status
+  163  git branch
+  164  git checkout main
+  165  git status
+  166  git add .gitignore
+  167  git commit -m 'update gitignore'
+  168  git checkout main
+  169  git merge feature 
+  170  git log
+  171  git push
+  172  history
+  173  history | tail -20 > history.txt
